@@ -1,0 +1,7 @@
+interface:
+  display_name: "相亲矩阵运营"
+  short_description: "相亲账号养号、选题、成品文案、合规审查与竞品日报的执行标准"
+  default_prompt: "使用 $xiangqin-matrix-ops 帮我出一份郑州相亲账号的运营方案"
+
+policy:
+  allow_implicit_invocation: true
